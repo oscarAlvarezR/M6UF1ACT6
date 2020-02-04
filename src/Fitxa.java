@@ -5,6 +5,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 //@XmlRootElement
 @XmlRootElement(name = "row")
 
+// Clase per element fitxa
 public class Fitxa {
 
 	private String url;

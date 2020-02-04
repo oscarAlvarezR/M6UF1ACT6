@@ -5,6 +5,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 //@XmlRootElement
 @XmlRootElement(name = "row")
 
+//Clase per element geocoded_column
 public class Geocoded_column {
 
 	private double latitude;
